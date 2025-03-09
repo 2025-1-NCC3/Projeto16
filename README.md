@@ -10,13 +10,13 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Uber Guardian
+# Uber Guardian 🚖🛡️
 
 ## Nome do Grupo
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Cassio Gonçalves Gama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Stephany Aliyah Guimarães Eurípedes de Paula</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Marco Aurelio Lima Barbosa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Katia Milani Lara Boss</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Vinicius Heltai Pacheco</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: Marco Aurelio Lima Barbosa, Katia Milani Lara Boss, Victor Bruno Alexander Rosetti de Quiroz, Vinicius Heltai Pacheco, Dr. Gero.
 
 ## Descrição
 
