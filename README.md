@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Cassio Gonçalves Gama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Stephany Aliyah Guimarães Eurípedes de Paula</a>
+## Integrantes: Cassio Gonçalves Gama, Stephany Aliyah Guimarães Eurípedes de Paula</a>
 
 ## Professores Orientadores: Marco Aurelio Lima Barbosa, Katia Milani Lara Boss, Victor Bruno Alexander Rosetti de Quiroz, Vinicius Heltai Pacheco, Dr. Gero.
 
