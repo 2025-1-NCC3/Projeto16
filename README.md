@@ -16,7 +16,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: Cassio Gonçalves Gama, Stephany Aliyah Guimarães Eurípedes de Paula</a>
 
-## Professores Orientadores: Marco Aurelio Lima Barbosa, Katia Milani Lara Boss, Victor Bruno Alexander Rosetti de Quiroz, Vinicius Heltai Pacheco, Dr. Gero.
+## Professores Orientadores: Marco Aurelio Lima Barbosa, Katia Milani Lara Boss, Victor Bruno Alexander Rosetti de Quiroz, Vinicius Heltai Pacheco.
 
 ## Descrição
 
