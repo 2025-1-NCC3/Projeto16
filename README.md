@@ -12,7 +12,7 @@ Vide tutoriais do PI.
 
 # Uber Guardian 🚖🛡️
 
-## Nome do Grupo
+##(Grupo Finalizado/Dissolvido)
 
 ## Integrantes: Cassio Gonçalves Gama, Stephany Aliyah Guimarães Eurípedes de Paula</a>
 
